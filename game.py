@@ -38,7 +38,7 @@ def portfolio():
 
     st.markdown('<div class="section">', unsafe_allow_html=True)
     st.header("Skills and Abilities")
-    st.write("Here are some of my skills:")
+    st.write("Here are some of my skills and abilities:")
     st.write("- I can converse in english fluently.")
     st.write("- I can research new ideas through prompting by using the advanced developing AI tools.")
     st.write("- I can grasp the concepts of new technologies by practically working on hands on projects.")
